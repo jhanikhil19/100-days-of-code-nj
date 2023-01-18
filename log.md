@@ -10,15 +10,14 @@
 **Link to work:** Completed till video 10 (https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
 -------------------------------------------------
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: Jan 17, 2023 , Paderborn, DORM
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned about Dictionary, Set, Loops.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I was motivated and shared it with my friends for them to do it as well. Let's see if they work on it with me or not. I was occupied with some friends and all still finished 20 video mark at 5:15 morning. It felt good. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+**Link(s) to work**: No link for today. 
+-------------------------------------------------
 
 ### Day 1: June 27, Monday
 
