@@ -19,12 +19,10 @@
 **Link(s) to work**: No link for today. 
 -------------------------------------------------
 
-### Day 1: June 27, Monday
+### Day 3: Jan 18, 2023 , Paderborn, DORM
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Completed till video 30 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Met friends and realxed. Went out and started at around 12:00 midnight and right now its 2:38 AM --- super happy ---  Finished some learning about Operators, Short Hands, Functions, DocStrings, Try Exception Handing, File IO Basics 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work** -- No links for today. 
